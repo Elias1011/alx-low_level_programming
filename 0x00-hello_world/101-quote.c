@@ -1,4 +1,3 @@
-#!/bin/bash
 #include <stdio.h>
 #include <unistd.h>
 
@@ -7,6 +6,7 @@
 *
 * Return: Always 1 (Success)
 */
+
 int main(void)
 {
 	write(2,
